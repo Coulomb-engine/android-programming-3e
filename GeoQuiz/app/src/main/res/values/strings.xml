@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">智力竞赛</string>
+    <string name="question_australia">1、澳大利亚的首都是堪培拉。</string>
+    <string name="question_oceans">2、太平洋比大西洋更大。</string>
+    <string name="question_mideast">3、苏伊士运河连接红海和印度洋。</string>
+    <string name="question_africa">4、尼罗河的发源地是埃及。</string>
+    <string name="question_americas">5、亚马逊河是美洲最长的河流。</string>
+    <string name="question_asia">6、贝加尔湖是世界上最古老最深的淡水湖。</string>
+    <string name="true_button">√</string>
+    <string name="false_button">×</string>
+    <string name="correct_toast">回答正确！</string>
+    <string name="incorrect_toast">回答错误！</string>
+    <string name="next_button">下一题</string>
+    <string name="prev_button">上一题</string>
+    <string name="warning_text">确定要作弊吗？</string>
+    <string name="show_answer_button">偷看答案</string>
+    <string name="cheat_button">作弊</string>
+    <string name="judgment_toast">作弊不可取。</string>
+</resources>
